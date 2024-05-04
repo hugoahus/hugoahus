@@ -19,4 +19,4 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 ## Get in contact with Me
 
 * 📧 E-mail: hugoahus@hotmail.se or hugolw@kth.se
-* 👷 LinkedIn:[Hugo Larsson Wilhelmsson](https://www.linkedin.com/in/hugo-larsson-wilhelmsson-172273174/)
+* 👷 LinkedIn: [Hugo Larsson Wilhelmsson](https://www.linkedin.com/in/hugo-larsson-wilhelmsson-172273174/)

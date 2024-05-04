@@ -3,7 +3,7 @@
 My name is Hugo and I am studying computer science and engineering at the Royal Institite of Technology (KTH).
 
 ## Education
-* 🎓 Computer Science and Engineering, Royal Institute of Technology (KTH), 2022-2027.
+* 🎓 Computer Science and Engineering at the Royal Institute of Technology (KTH), 2022-2027.
 
 ## Skills
 * 💻 Skills in Java, Python, SQL, C, Haskell, JavaScript, HTML, CSS, GO, Assembly.

@@ -15,6 +15,9 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 * 🦖 [Dinosaur T-rex game](https://github.com/hugoahus/chipkit_pixel_game): A game developed in C and Assembly by inspiration from Googles offline game.
 * 🕹️ [Blockade game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
 
+### Websites
+* 🛒 [Shopping List](https://github.com/hugoahus/shopping_list): A Shopping list creator developen in PHP, HTML, CSS and JavaScript that interacts with an SQLite database.
+
 ### Machine learning and AI
 
 * 🧠 [Machine Learning study, Bayesian Approach](https://github.com/hugoahus/ml_bayesian): A machine learning project in Python.

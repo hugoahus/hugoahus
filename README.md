@@ -15,7 +15,7 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 * 🦖 [Dinosaur T-rex game](https://github.com/hugoahus/chipkit_pixel_game): A game developed in C and Assembly by inspiration from Googles offline game.
 * 🕹️ [Blockade game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
 
-### Websites
+### Web Applications
 * 🛒 [Shopping List](https://github.com/hugoahus/shopping_list): A Shopping list creator developed in PHP, HTML, CSS and JavaScript that interacts with an SQLite database.
 
 ### Machine learning and AI
@@ -25,6 +25,10 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 ### Data Analysis
 
 * 🚔 [Swedish police events](https://github.com/hugoahus/swedish-police-events): An application with up to date detailed information about police events in Sweden, and a large database of prevoius events, developed in Go.
+
+### Systems and Networking
+
+* ⏱️ [NTP Client](https://github.com/atomic-pvk/atomic-project): An NTP client developed in C for the FreeRTOS operating system, in collaboration with ABB, tailored for their embedded systems.
 
 ###  Language Processing
 

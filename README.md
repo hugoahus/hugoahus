@@ -16,7 +16,7 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 * 🕹️ [Blockade game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
 
 ### Websites
-* 🛒 [Shopping List](https://github.com/hugoahus/shopping_list): A Shopping list creator developen in PHP, HTML, CSS and JavaScript that interacts with an SQLite database.
+* 🛒 [Shopping List](https://github.com/hugoahus/shopping_list): A Shopping list creator developed in PHP, HTML, CSS and JavaScript that interacts with an SQLite database.
 
 ### Machine learning and AI
 

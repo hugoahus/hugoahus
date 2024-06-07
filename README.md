@@ -15,16 +15,9 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 * 🦖 [Dinosaur T-rex game](https://github.com/hugoahus/chipkit_pixel_game): A game developed in C and Assembly by inspiration from Googles offline game.
 * 🕹️ [Blockade game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
 
-### Web Applications
-* 🛒 [Shopping List](https://github.com/hugoahus/shopping_list): A Shopping list creator developed in PHP, HTML, CSS and JavaScript that interacts with an SQLite database.
-
 ### Machine learning and AI
 
 * 🧠 [Machine Learning study, Bayesian Approach](https://github.com/hugoahus/ml_bayesian): A machine learning project in Python.
-
-### Data Analysis
-
-* 🚔 [Swedish police events](https://github.com/hugoahus/swedish-police-events): An application with up to date detailed information about police events in Sweden, and a large database of prevoius events, developed in Go.
 
 ### Systems and Networking
 
@@ -33,6 +26,13 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 ###  Language Processing
 
 * 🐢 [Leona](https://github.com/hugoahus/leona): A Leona language translator (lexer & parser) in Java.
+
+### Web Applications
+* 🛒 [Shopping List](https://github.com/hugoahus/shopping_list): A Shopping list creator developed in PHP, HTML, CSS and JavaScript that interacts with an SQLite database.
+
+### Data Analysis
+
+* 🚔 [Swedish police events](https://github.com/hugoahus/swedish-police-events): An application with up to date detailed information about police events in Sweden, and a large database of prevoius events, developed in Go.
 
 ### Labs
 * 🤖 [Programming paradigms labs](https://github.com/hugoahus/programming_paradigms): Labs from KTH about programming paradigms in multiple programming languages.

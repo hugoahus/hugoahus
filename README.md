@@ -18,7 +18,7 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 
 ### Machine learning and AI
 
-* [Autonomous UAV](https://github.com/erikgsmit/RL-Based-Obstacle-Avoidance-for-Drone): An autonomous UAV trained using reinforcement learning (Q-learning) – Bachelor's Thesis
+* 🚁 [Autonomous UAV](https://github.com/erikgsmit/RL-Based-Obstacle-Avoidance-for-Drone): An autonomous UAV trained using reinforcement learning (Q-learning) – Bachelor's Thesis.
 * 🧠 [Machine Learning study, Bayesian Approach](https://github.com/hugoahus/ml_bayesian): A machine learning project in Python.
 
 ### Systems and Networking

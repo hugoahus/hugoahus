@@ -11,15 +11,15 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 
 ## Projects
 
-### Games
-
-* 🦖 [Dinosaur T-rex game](https://github.com/hugoahus/chipkit_pixel_game): A game developed in C and Assembly by inspiration from Googles offline game.
-* 🕹️ [Blockade game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
-
 ### Machine learning and AI
 
 * 🚁 [Autonomous UAV](https://github.com/erikgsmit/RL-Based-Obstacle-Avoidance-for-Drone): An autonomous UAV trained using reinforcement learning (Q-learning) – Bachelor's Thesis.
 * 🧠 [Machine Learning study, Bayesian Approach](https://github.com/hugoahus/ml_bayesian): A machine learning project in Python.
+
+### Games
+
+* 🦖 [Dinosaur T-rex game](https://github.com/hugoahus/chipkit_pixel_game): A game developed in C and Assembly by inspiration from Googles offline game.
+* 🕹️ [Blockade game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
 
 ### Systems and Networking
 

@@ -14,12 +14,12 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 ### Machine learning and AI
 
 * 🚁 [Autonomous UAV](https://github.com/erikgsmit/RL-Based-Obstacle-Avoidance-for-Drone): An autonomous UAV trained using reinforcement learning (Q-learning) – Bachelor's Thesis.
-* 🧠 [Machine Learning study, Bayesian Approach](https://github.com/hugoahus/ml_bayesian): A machine learning project in Python.
+* 🧠 [Machine Learning Study, Bayesian Approach](https://github.com/hugoahus/ml_bayesian): A machine learning project in Python.
 
 ### Games
 
-* 🦖 [Dinosaur T-rex game](https://github.com/hugoahus/chipkit_pixel_game): A game developed in C and Assembly by inspiration from Googles offline game.
-* 🕹️ [Blockade game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
+* 🦖 [Dinosaur T-rex Game](https://github.com/hugoahus/chipkit_pixel_game): A game developed in C and Assembly by inspiration from Googles offline game.
+* 🕹️ [Blockade Game](https://github.com/hugoahus/blockade): The game "Blockade" developed in Haskell.
 
 ### Systems and Networking
 
@@ -34,11 +34,11 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 
 ### Data Analysis
 
-* 🚔 [Swedish police events](https://github.com/hugoahus/swedish-police-events): An application with up to date detailed information about police events in Sweden, and a large database of prevoius events, developed in Go.
+* 🚔 [Swedish Police Events](https://github.com/hugoahus/swedish-police-events): An application with up to date detailed information about police events in Sweden, and a large database of prevoius events, developed in Go.
 
 ### Labs
-* 🤖 [Programming paradigms labs](https://github.com/hugoahus/programming_paradigms): Labs from KTH about programming paradigms in multiple programming languages.
-* 🕹️ [Database technology labs](https://github.com/hugoahus/database_technology_labs): Labs from KTH about database technology in SQL and Python.
+* 🤖 [Programming Paradigms Labs](https://github.com/hugoahus/programming_paradigms): Labs from KTH about programming paradigms in multiple programming languages.
+* 🕹️ [Database Technology Labs](https://github.com/hugoahus/database_technology_labs): Labs from KTH about database technology in SQL and Python.
 
 ## Get in contact with Me
 

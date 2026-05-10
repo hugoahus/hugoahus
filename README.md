@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Hugo and I am studying computer science and engineering at the Royal Institite of Technology (KTH).
+My name is Hugo and I am studying computer science and engineering with a specialization in data science at the Royal Institite of Technology (KTH).
 
 ## Education
 * 🎓 Computer Science and Engineering at the Royal Institute of Technology (KTH), 2022-2027.
@@ -40,7 +40,3 @@ My name is Hugo and I am studying computer science and engineering at the Royal 
 * 🤖 [Programming Paradigms Labs](https://github.com/hugoahus/programming_paradigms): Labs from KTH about programming paradigms in multiple programming languages.
 * 🕹️ [Database Technology Labs](https://github.com/hugoahus/database_technology_labs): Labs from KTH about database technology in SQL and Python.
 
-## Get in contact with Me
-
-* 📧 E-mail: hugoahus@hotmail.se or hugolw@kth.se
-* 👷 LinkedIn: [Hugo Larsson Wilhelmsson](https://www.linkedin.com/in/hugo-larsson-wilhelmsson-172273174/)

@@ -4,6 +4,7 @@ My name is Hugo and I am studying computer science and engineering with a specia
 
 ## Education
 * 🎓 Computer Science and Engineering at the Royal Institute of Technology (KTH), 2022-2027.
+* 🎓 Data Science at McMaster University (2026)
 
 ## Skills
 * 💻 Skills in Java, Python, SQL, C, Haskell, JavaScript, HTML, CSS, Go, Assembly.
@@ -36,7 +37,7 @@ My name is Hugo and I am studying computer science and engineering with a specia
 
 * 🚔 [Swedish Police Events](https://github.com/hugoahus/swedish-police-events): An application with up to date detailed information about police events in Sweden, and a large database of prevoius events, developed in Go.
 
-### Labs
+## University Labs
 * 🤖 [Programming Paradigms Labs](https://github.com/hugoahus/programming_paradigms): Labs from KTH about programming paradigms in multiple programming languages.
 * 🕹️ [Database Technology Labs](https://github.com/hugoahus/database_technology_labs): Labs from KTH about database technology in SQL and Python.
 

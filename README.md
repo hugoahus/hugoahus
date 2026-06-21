@@ -38,11 +38,12 @@ My name is Hugo and I am studying computer science and engineering with a specia
 * 🚔 [Swedish Police Events](https://github.com/hugoahus/swedish-police-events): An application with up to date detailed information about police events in Sweden, and a large database of prevoius events, developed in Go.
 
 ## University Projects
-* [ML - Optimization](https://github.com/hugoahus/ML-optimization): Optimization and Coordinate Descent. First project in the Neural Network and Machine Learning course at McMaster University.
-* [ML - Numerical Optimization](https://github.com/hugoahus/ML-numerical-optimization): Momentum accelerated and Normalized Gradient Descent, Hessians and Linear Regression. Second project in the Neural Network and Machine Learning course at McMaster University.
-* [ML - Classification](https://github.com/hugoahus/ML-classification): Two-Class and Multi-Class Classification. Third project in the Neural Network and Machine Learning course at McMaster University.
-* [ML - Linear Unsupervised Learning](https://github.com/hugoahus/ML-linear-unsupervised-learning): PCA, Autoencoders, K-Means Clustering and fcNN. Fourth project in the Neural Network and Machine Learning course at McMaster University.
-* [ML - Non-Linear Learning](https://github.com/hugoahus/ML-non-linear-learning): Convolution Networks, Non-Linear Regression, Kernelization, Model Tuning and Tree Regression. Fifth project in the Neural Network and Machine Learning course at McMaster University.
-* 🤖 [Programming Paradigms Labs](https://github.com/hugoahus/programming_paradigms): Labs from KTH about programming paradigms in multiple programming languages.
+* 🤖 **Neural Networks & Machine Learning**
+  * [ML - Optimization](https://github.com/hugoahus/ML-optimization): Optimization and Coordinate Descent. First project in the Neural Network and Machine Learning course at McMaster University.
+  * [ML - Numerical Optimization](https://github.com/hugoahus/ML-numerical-optimization): Momentum accelerated and Normalized Gradient Descent, Hessians and Linear Regression. Second project in the Neural Network and Machine Learning course at McMaster University.
+  * [ML - Classification](https://github.com/hugoahus/ML-classification): Two-Class and Multi-Class Classification. Third project in the Neural Network and Machine Learning course at McMaster University.
+  * [ML - Linear Unsupervised Learning](https://github.com/hugoahus/ML-linear-unsupervised-learning): PCA, Autoencoders, K-Means Clustering and fcNN. Fourth project in the Neural Network and Machine Learning course at McMaster University.
+  * [ML - Non-Linear Learning](https://github.com/hugoahus/ML-non-linear-learning): Convolution Networks, Non-Linear Regression, Kernelization, Model Tuning and Tree Regression. Fifth project in the Neural Network and Machine Learning course at McMaster University.
+* 🧩 [Programming Paradigms Labs](https://github.com/hugoahus/programming_paradigms): Labs from KTH about programming paradigms in multiple programming languages.
 * 🕹️ [Database Technology Labs](https://github.com/hugoahus/database_technology_labs): Labs from KTH about database technology in SQL and Python.
 
